@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="WhiteMouseHuang/android_device_huawei_kiwi" path="device/huawei/kiwi" remote="github" revision="lineage-16.0" />
-  <project name="ArrowOS-Devices/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="lineage-16.0" />
-  <project name="ArrowOS-Devices/android_vendor_huawei_kiwi" path="vendor/huawei/kiwi" remote="github" revision="lineage-16.0" />
+  <project name="WhiteMouseHuang/device_huawei_warsaw" path="device/huawei/warsaw" remote="github" revision="lineage-16.0" />
+  <project name="WhiteMouseHuang/device_huawei_hi6250-common" path="device/huawei/hi6250-common" remote="github" revision="lineage-16.0" />
+  <project name="WhiteMouseHuang/android_vendor_huawei_hi6250-common" path="vendor/huawei/hi6250-common" remote="github" revision="p-emui8" />
+  <project name="WhiteMouseHuang/kernel_huawei_warsaw" path="kernel/huawei/warsaw" remote="github" revision="o-emui8" />
 </manifest>
