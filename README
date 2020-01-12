@@ -1,6 +1,5 @@
-# roomserver-for-kiwi
+# roomserver
 This is a roomservice file for kiwi.
 使用方法
-init后clone此文件到.repo/local_manifests
-然后重新sync
-开始编译
+git clone https://github.com/WhiteMouseHuang/roomserver.git -b kiwi-pie .repo/local_manifests
+repo syncS
