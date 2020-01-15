@@ -1,5 +1,5 @@
 # roomserver
-This is a roomservice file for kiwi.
+This is a roomservice file for warsaw.
 使用方法
-git clone https://github.com/WhiteMouseHuang/roomserver.git -b kiwi-pie .repo/local_manifests
+git clone https://github.com/WhiteMouseHuang/roomserver.git -b warsaw-pie .repo/local_manifests
 repo syncS
